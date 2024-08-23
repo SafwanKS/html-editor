@@ -193,7 +193,7 @@ header img{
 }
 
 main{
-  height: calc(100% - 170px);
+  height: calc(100% - 270px);
   width: 100%;
   background: var(--main-bg);
   animation: transitionIn 1s;
